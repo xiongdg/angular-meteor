@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@angular/common": "^2.0.0",
-    "@angular/compiler": "^2.0.0",
+    "@angular/compiler": "^2.2.4",
     "@angular/core": "^2.0.0",
     "@types/underscore": "^1.7.33",
     "angular2-meteor-polyfills": "^0.1.1",
